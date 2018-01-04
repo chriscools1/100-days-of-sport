@@ -10,4 +10,6 @@ Beide doelen moet dagelijks aan gewerkt worden in de komende 100 dagen, door het
 3 dagelijkse doelen die mogelijk zijn:
 -5 km door lopen (mag ook wandelen / lopen zijn via start to run, maar de 5 km moeten wel gehaald worden)
 -10 km fietsen
--100% dagelijkse inspanning volgens de Polar horloge (100% is +/- gelijk aan tussen de 11.000 en 14.000 stappen te doen
+-100% dagelijkse inspanning volgens de Polar horloge (100% is +/- gelijk aan 12.500 stappen te doen)
+
+
